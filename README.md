@@ -1,7 +1,7 @@
 # Hello, World! I'm Husniddin Tugizov 👋
 
 ## About Me 🚀
-I'm a 24-year-old Software Engineer from the vibrant lands of Uzbekistan! I brew magic with code and have a knack for turning coffee into functional, efficient software.
+I'm a 25-year-old Software Engineer from the vibrant lands of Uzbekistan! I brew magic with code and have a knack for turning coffee into functional, efficient software.
 
 ### Languages and Tools:
 - **Languages I Speak:** PHP 🐘, JavaScript ⚡, C# 🎯
